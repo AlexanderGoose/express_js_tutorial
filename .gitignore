@@ -1,0 +1,52 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables file
+.env
+
+# Build directories
+dist/
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Dependency directories
+jspm_packages/
+
+# VS Code directories
+.vscode/
+.history/
+
+# Svelte files
+.svelte-kit/
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
